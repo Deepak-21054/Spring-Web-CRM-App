@@ -9,7 +9,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Update Customer</title>
+    <title>Update Existing Customer</title>
 
     <style>
         *{
